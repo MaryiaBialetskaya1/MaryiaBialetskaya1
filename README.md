@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Maryia
 
-- 🔭 I’m currently working on developing REST API backend project
 - 🌱 I’m currently learning React, TypeScript and ExpressJS
 - 💬 Ask me anything about JavaScript development
 - 📫 How to reach me: maryiabeletskaya@gmail.com
